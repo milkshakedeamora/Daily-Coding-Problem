@@ -14,6 +14,7 @@ Resoluções dos desafios de codificação enviados pelo [Daily Coding Problem](
 |#009| Dada uma lista de números inteiros, escreva uma função que retorne a maior soma de números não adjacentes. Os números podem ser 0 ou negativos. Por exemplo, [2, 4, 6, 2, 5] deve retornar 13, já que escolhemos 2, 6 e 5. [5, 1, 1, 5] deve retornar 10, já que escolhemos 5 e 5| | 
 |#010| Implemente um agendador de tarefas que receba uma função <b> f </b> e um número inteiro n e chame f após n milissegundos. |  | 
 |#011| Implemente um sistema de preenchimento automático. Ou seja, dada uma string de consulta `s` e um conjunto de todas as strings de consulta possíveis, retorne todas as strings do conjunto que tenham s como prefixo. Por exemplo, dada a string de consulta <i> de </i> e o conjunto de strings [ dog, deer, deal], retorne [ deer, deal]. | | 
+|#012| Existe uma escada com N degraus e você pode subir 1 ou 2 degraus por vez. Dado N, escreva uma função que retorne o número de maneiras únicas pelas quais você pode subir a escada. A ordem das etapas é importante. Por exemplo, se N é 4, existem 5 maneiras únicas: `1, 1, 1, 1` ,  `2, 1, 1` , `1, 2, 1` , `1, 1, 2` , `2, 2` . E se, em vez de subir 1 ou 2 degraus de cada vez, você pudesse subir qualquer número de um conjunto de inteiros positivos X? Por exemplo, se X = {1, 3, 5}, você pode subir 1, 3 ou 5 degraus por vez.| |
 
 
  
